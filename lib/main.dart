@@ -1,5 +1,5 @@
-import 'coffee.dart';
+import 'phone.dart';
 void main(){
-  Coffee kape = Coffee(type: 'latte', size: 'large');
-  kape.showInfo(); 
+  Phone hehe = Phone(brand: 'vivo', os: 'android');
+  hehe.showInfo(); 
 }
